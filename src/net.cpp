@@ -1140,7 +1140,7 @@ void MapPort()
 // The second name should resolve to a list of seed addresses.
 static const char *strDNSSeed[][2] = {
     {"tech chainworks seed", "tech.chainworks.info"}, //Main Techcoin DNS Seed Node
-    {"tech chainworks seed", "24.85.126.229:57697"}, //Main Techcoin IP Seed Node
+    {"tech seed", "24.85.126.229:57697"}, //Backup Techcoin IP Seed Node
 };
 
 void ThreadDNSAddressSeed(void* parg)
