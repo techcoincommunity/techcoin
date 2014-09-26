@@ -24,11 +24,11 @@ SignVerifyMessageDialog::SignVerifyMessageDialog(QWidget *parent) :
 
 #if (QT_VERSION >= 0x040700)
     /* Do not move this to the XML file, Qt before 4.7 will choke on it */
-    ui->addressIn_SM->setPlaceholderText(tr("Enter a Techcoin address (e.g. TechcoinfwYhBmGXcFP2Po1NpRUEiK8km2)"));
+    ui->addressIn_SM->setPlaceholderText(tr("Enter a TechCoin address, (example: pnA1PXzwBmDMywsgE7MJoXiQHUWXQb7SX4)"));
     ui->signatureOut_SM->setPlaceholderText(tr("Click \"Sign Message\" to generate signature"));
 
-    ui->addressIn_VM->setPlaceholderText(tr("Enter a Techcoin address (e.g. TechcoinfwYhBmGXcFP2Po1NpRUEiK8km2)"));
-    ui->signatureIn_VM->setPlaceholderText(tr("Enter Techcoin signature"));
+    ui->addressIn_VM->setPlaceholderText(tr("Enter a TechCoin address, (example: pnA1PXzwBmDMywsgE7MJoXiQHUWXQb7SX4)"));
+    ui->signatureIn_VM->setPlaceholderText(tr("Enter TechCoin signature"));
 #endif
 
     GUIUtil::setupAddressWidget(ui->addressIn_SM, this);

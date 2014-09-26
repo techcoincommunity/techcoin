@@ -7,9 +7,10 @@ P2P Port: 57697
 
 Algorithm: X13 POW/POS
 Ticker: TECH
-Max PoW Coins: ~216,500 TECH
+Max POW Coins: 186,985 TECH
 PoS Starts on Block 5,000 ~4 days
 PoS 4% Annual Interest
+Total Coins: ~300,000 TECH
 
 Development process
 ===========================

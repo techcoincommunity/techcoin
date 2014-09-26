@@ -9,6 +9,9 @@ class ClientModel;
 class WalletModel;
 class TransactionView;
 class OverviewPage;
+class StatisticsPage;
+class BlockBrowser;
+//class PoolBrowser;
 class AddressBookPage;
 class SendCoinsDialog;
 class SignVerifyMessageDialog;
@@ -60,6 +63,9 @@ private:
     QStackedWidget *centralWidget;
 
     OverviewPage *overviewPage;
+    StatisticsPage *statisticsPage;
+    BlockBrowser *blockBrowser;
+ //   PoolBrowser *poolBrowser;
     QWidget *transactionsPage;
     AddressBookPage *addressBookPage;
     AddressBookPage *receiveCoinsPage;
@@ -75,12 +81,17 @@ private:
 
     QMenuBar *appMenuBar;
     QAction *overviewAction;
+    QAction *statisticsAction;
+    QAction *blockAction;
+//    QAction *poolAction;
+	QAction *chatAction;
     QAction *historyAction;
     QAction *quitAction;
     QAction *sendCoinsAction;
     QAction *addressBookAction;
     QAction *signMessageAction;
     QAction *verifyMessageAction;
+    QAction *aboutCardAction;
     QAction *aboutAction;
     QAction *receiveCoinsAction;
     QAction *optionsAction;
@@ -137,6 +148,12 @@ public slots:
 private slots:
     /** Switch to overview (home) page */
     void gotoOverviewPage();
+    /** Switch to statistics page*/
+    void gotoStatisticsPage();
+    /** Switch to block explorer*/
+    void gotoBlockBrowser();
+	    /** Switch to block explorer*/
+//    void gotoPoolBrowser();
     /** Switch to history (transactions) page */
     void gotoHistoryPage();
     /** Switch to address book page */
@@ -153,6 +170,7 @@ private slots:
 
     /** Show configuration dialog */
     void optionsClicked();
+    void aboutCardClicked();
     /** Show about dialog */
     void aboutClicked();
 #ifndef Q_OS_MAC

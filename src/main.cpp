@@ -38,12 +38,12 @@ CBigNum bnProofOfWorkLimit(~uint256(0) >> 20); // "standard" scrypt target limit
 CBigNum bnProofOfStakeLimit(~uint256(0) >> 20);
 CBigNum bnProofOfWorkLimitTestNet(~uint256(0) >> 16);
 
-unsigned int nTargetSpacing = 1 * 60; // 60 seconds
-unsigned int nStakeMinAge = 1 * 60 * 60; // 1 hour
+unsigned int nTargetSpacing = 5 * 60; // 5 minutes
+unsigned int nStakeMinAge = 60 * 60; // 1 hour
 unsigned int nStakeMaxAge = -1;           //unlimited
-unsigned int nModifierInterval = 1 * 60; // time to elapse before new modifier is computed
+unsigned int nModifierInterval = 5 * 60; // time to elapse before new modifier is computed
 
-int nCoinbaseMaturity = 20;
+int nCoinbaseMaturity = 5;
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
 
@@ -964,40 +964,35 @@ uint256 WantedByOrphan(const CBlock* pblockOrphan)
 // miner's coin base reward
 int64_t GetProofOfWorkReward(int64_t nFees)
 {
-    int64_t nSubsidy = 10 * COIN;
+    int64_t nSubsidy = 0 * COIN;
 	if(pindexBest->nHeight < 3)
     {
         nSubsidy = 1000 * COIN;
     }
-    else if(pindexBest->nHeight < 200)
+		else if(pindexBest->nHeight < 200)
     {
 		nSubsidy = 5 * COIN;
     }
-    else if(pindexBest->nHeight < 1000)
+		else if(pindexBest->nHeight < 1000)
     {
 		nSubsidy = 10 * COIN;
     }
-    else if(pindexBest->nHeight < 2500)
+		else if(pindexBest->nHeight < 2500)
     {
 		nSubsidy = 100 * COIN;
     }
-    else if(pindexBest->nHeight < 5000)
+		else if(pindexBest->nHeight < 5000)
     {
 		nSubsidy = 10 * COIN;
     }
-    else if(pindexBest->nHeight < 6000)
-    {
-        nSubsidy = 0 * COIN;
-    }
-
-
+	
     if (fDebug && GetBoolArg("-printcreation"))
         printf("GetProofOfWorkReward() : create=%s nSubsidy=%"PRId64"\n", FormatMoney(nSubsidy).c_str(), nSubsidy);
 	
     return nSubsidy + nFees;
 }
 
-const int DAILY_BLOCKCOUNT =  1440;
+const int DAILY_BLOCKCOUNT =  288;
 // miner's coin stake reward based on coin age spent (coin-days)
 int64_t GetProofOfStakeReward(int64_t nCoinAge, int64_t nFees)
 {
@@ -2125,7 +2120,7 @@ bool CBlock::AcceptBlock()
 
     if (IsProofOfWork() && nHeight > MID_POW_BLOCK && nHeight < MID2_POW_BLOCK)
         return DoS(100, error("AcceptBlock() : reject proof-of-work at height %d", nHeight));
-    
+
     if (IsProofOfWork() && nHeight > LAST_POW_BLOCK)
         return DoS(100, error("AcceptBlock() : reject proof-of-work at height %d", nHeight));
 
