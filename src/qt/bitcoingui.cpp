@@ -537,7 +537,7 @@ void BitcoinGUI::optionsClicked()
 
 void BitcoinGUI::aboutCardClicked()
 {
-    QDesktopServices::openUrl(QUrl("http://xuro.pw/"));
+    QDesktopServices::openUrl(QUrl("http://tech-co.in/"));
 }
 
 void BitcoinGUI::aboutClicked()
