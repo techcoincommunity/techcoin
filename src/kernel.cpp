@@ -18,7 +18,6 @@ typedef std::map<int, unsigned int> MapModifierCheckpoints;
 static std::map<int, unsigned int> mapStakeModifierCheckpoints =
     boost::assign::map_list_of
         ( 0, 0x0e00670bu )
-        ( 5001, 0x5db9755eu )
     ;
 
 // Hard checkpoints of stake modifiers to ensure they are deterministic (testNet)
@@ -144,17 +143,6 @@ bool ComputeNextStakeModifier(const CBlockIndex* pindexPrev, uint64_t& nStakeMod
     {
         printf("ComputeNextStakeModifier: prev modifier=0x%016"PRIx64" time=%s\n", nStakeModifier, DateTimeStrFormat(nModifierTime).c_str());
     }
-    
-    // The next block
-    int nHeight = pindexPrev->nHeight + 1;
-    
-    if (nHeight < MID2_POW_BLOCK)
-        nModifierInterval = 10 * 60;
-    else
-        nModifierInterval = 5 * 60;
-        
-    if (nModifierTime / nModifierInterval >= pindexPrev->GetBlockTime() / nModifierInterval)
-        return true;
 
     // Sort candidate blocks by timestamp
     vector<pair<int64_t, uint256> > vSortedByTimestamp;
