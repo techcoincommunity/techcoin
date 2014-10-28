@@ -41,7 +41,6 @@ CBigNum bnProofOfStakeLimit(~uint256(0) >> 20);
 CBigNum bnProofOfWorkLimitTestNet(~uint256(0) >> 16);
 
 unsigned int nTargetSpacing = 5 * 60; // 5 minutes
-unsigned int nTargetSpacing1 = 1 * 60; // 60 seconds
 unsigned int nStakeMinAge = 60 * 60; // 1 hour
 unsigned int nStakeMaxAge = -1;           //unlimited
 unsigned int nModifierInterval = 5 * 60; // time to elapse before new modifier is computed
@@ -1073,39 +1072,18 @@ static unsigned int GetNextTargetRequired_(const CBlockIndex* pindexLast, bool f
     if (pindexPrevPrev->pprev == NULL)
         return bnTargetLimit.GetCompact(); // second block
 
-    int64_t nActualSpacing = pindexPrev->GetBlockTime() - pindexPrevPrev->GetBlockTime();
-    
-    // The next block
-    int nHeight = pindexLast->nHeight + 1;
-    
-    if (nHeight < MID2_POW_BLOCK)
-    {
-        if (nActualSpacing < 0)
-            nActualSpacing = nTargetSpacing1;
-    }
-    else
-    {
-        if (nActualSpacing < 0)
-            nActualSpacing = nTargetSpacing;
-    }
-
+    int64_t nActualSpacing = pindexPrev->GetBlockTime() - pindexPrevPrev->GetBlockTime()
+    if (nActualSpacing < 0)
+    	nActualSpacing = nTargetSpacing;
+   
     // ppcoin: target change every block
     // ppcoin: retarget with exponential moving toward target spacing
     CBigNum bnNew;
     bnNew.SetCompact(pindexPrev->nBits);
-    if (nHeight < MID2_POW_BLOCK)
-    {
-        int64_t nInterval = nTargetTimespan / nTargetSpacing1;
-        bnNew *= ((nInterval - 1) * nTargetSpacing1 + nActualSpacing + nActualSpacing);
-        bnNew /= ((nInterval + 1) * nTargetSpacing1);
-    }
-    else
-    {
-        int64_t nInterval = nTargetTimespan / nTargetSpacing;
-        bnNew *= ((nInterval - 1) * nTargetSpacing + nActualSpacing + nActualSpacing);
-        bnNew /= ((nInterval + 1) * nTargetSpacing);
-    }
-
+    int64_t nInterval = nTargetTimespan / nTargetSpacing;
+    bnNew *= ((nInterval - 1) * nTargetSpacing + nActualSpacing + nActualSpacing);
+    bnNew /= ((nInterval + 1) * nTargetSpacing);
+   
     if (bnNew <= 0 || bnNew > bnTargetLimit)
         bnNew = bnTargetLimit;
 
