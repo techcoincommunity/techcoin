@@ -1072,7 +1072,7 @@ static unsigned int GetNextTargetRequired_(const CBlockIndex* pindexLast, bool f
     if (pindexPrevPrev->pprev == NULL)
         return bnTargetLimit.GetCompact(); // second block
 
-    int64_t nActualSpacing = pindexPrev->GetBlockTime() - pindexPrevPrev->GetBlockTime()
+    int64_t nActualSpacing = pindexPrev->GetBlockTime() - pindexPrevPrev->GetBlockTime();
     if (nActualSpacing < 0)
     	nActualSpacing = nTargetSpacing;
    
