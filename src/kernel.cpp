@@ -53,6 +53,13 @@ static bool GetLastStakeModifier(const CBlockIndex* pindex, uint64_t& nStakeModi
 // Get selection interval section (in seconds)
 static int64_t GetStakeModifierSelectionIntervalSection(int nSection)
 {
+    int nHeight = pindexBest->nHeight;
+	
+	if (nHeight < MID2_POW_BLOCK)
+    	nModifierInterval = 10 * 60;
+	else 
+    	nModifierInterval = 5 * 60;
+	
     assert (nSection >= 0 && nSection < 64);
     return (nModifierInterval * 63 / (63 + ((63 - nSection) * (MODIFIER_INTERVAL_RATIO - 1))));
 }
@@ -143,6 +150,20 @@ bool ComputeNextStakeModifier(const CBlockIndex* pindexPrev, uint64_t& nStakeMod
     {
         printf("ComputeNextStakeModifier: prev modifier=0x%016"PRIx64" time=%s\n", nStakeModifier, DateTimeStrFormat(nModifierTime).c_str());
     }
+
+    // The next block
+    int nHeight = pindexPrev->nHeight + 1;
+	
+	if (nHeight < MID2_POW_BLOCK)
+	{
+    	nModifierInterval = 10 * 60;
+    	nTargetSpacing = 1 * 60;
+	}
+	else
+	{
+    	nModifierInterval = 5 * 60;
+    	nTargetSpacing = 5 * 60;
+	}	
 
     if (nModifierTime / nModifierInterval >= pindexPrev->GetBlockTime() / nModifierInterval)
         return true;
