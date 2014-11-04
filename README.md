@@ -1,3 +1,5 @@
+# TECH ![TECH Logo](http://tech-co.in/img/logo.png "TECH Logo")
+
 [![Coverage Status](https://img.shields.io/coveralls/TestingCrypto/techcoin.svg)](https://coveralls.io/r/TestingCrypto/techcoin)
 
 Tech Information:
