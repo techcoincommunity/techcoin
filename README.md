@@ -1,4 +1,4 @@
-[![Coverage Status](https://img.shields.io/coveralls/TestingCrypto/techcoin.svg)](https://coveralls.io/r/TestingCrypto/techcoin)
+[![Coverage Status](https://img.shields.io/coveralls/techcoincommunity/techcoin.svg)](https://coveralls.io/r/techcoincommunity/techcoin)
 
 Tech Information:
 PoW/PoS Coin (Proof of work then Proof of stake)
