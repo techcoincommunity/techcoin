@@ -1,5 +1,7 @@
 # TECH ![TECH Logo](http://tech-co.in/img/logo.png "TECH Logo")
 
+[![Throughput Graph](https://graphs.waffle.io/techcoincommunity/techcoin/throughput.svg)](https://waffle.io/techcoincommunity/techcoin/metrics)
+
 [![Coverage Status](https://img.shields.io/coveralls/techcoincommunity/techcoin.svg)](https://coveralls.io/r/techcoincommunity/techcoin)[![tip for next commit](https://tip4commit.com/projects/43087.svg)](https://tip4commit.com/github/techcoincommunity/techcoin)[![gratipay](https://img.shields.io/gratipay/TestingCrypto.svg)](https://img.shields.io/gratipay/TestingCrypto/)[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/TestingCrypto/techcoin/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 Tech Information:
