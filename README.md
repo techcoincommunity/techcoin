@@ -1,6 +1,6 @@
 # TECH ![TECH Logo](http://tech-co.in/img/logo.png "TECH Logo")
 
-[![Coverage Status](https://img.shields.io/coveralls/techcoincommunity/techcoin.svg)](https://coveralls.io/r/techcoincommunity/techcoin)[![tip for next commit](https://tip4commit.com/projects/43087.svg)](https://tip4commit.com/github/techcoincommunity/techcoin)[![gratipay](https://img.shields.io/gratipay/TestingCrypto.svg)](https://img.shields.io/gratipay/TestingCrypto/)
+[![Coverage Status](https://img.shields.io/coveralls/techcoincommunity/techcoin.svg)](https://coveralls.io/r/techcoincommunity/techcoin)[![tip for next commit](https://tip4commit.com/projects/43087.svg)](https://tip4commit.com/github/techcoincommunity/techcoin)[![gratipay](https://img.shields.io/gratipay/TestingCrypto.svg)](https://img.shields.io/gratipay/TestingCrypto/)[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/TestingCrypto/techcoin/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 Tech Information:
 PoW/PoS Coin (Proof of work then Proof of stake)
@@ -27,7 +27,3 @@ Feature branches are created when there are major new features being worked on b
 From time to time a pull request will become outdated. If this occurs, and the pull is no longer automatically mergeable; a comment on the pull will be used to issue a warning of closure. The pull will be closed 15 days after the warning if action is not taken by the author. Pull requests closed in this manner will have their corresponding issue labeled 'stagnant'.
 
 Issues with no commits will be given a similar warning, and closed after 15 days from their last activity. Issues closed in this manner will be labeled 'stale'.
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/TestingCrypto/techcoin/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
