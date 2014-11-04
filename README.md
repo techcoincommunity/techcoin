@@ -1,8 +1,3 @@
-# TECH ![TECH Logo](http://tech-co.in/img/logo.png "TECH Logo")
-
-[![Coverage Status](https://img.shields.io/coveralls/techcoincommunity/techcoin.svg)](https://coveralls.io/r/techcoincommunity/techcoin)[![tip for next commit](https://tip4commit.com/projects/43087.svg)](https://tip4commit.com/github/techcoincommunity/techcoin)[![gratipay](https://img.shields.io/gratipay/techcoincommunity.svg)](https://img.shields.io/gratipay/techcoincommunity/)
-
-
 Tech Information:
 PoW/PoS Coin (Proof of work then Proof of stake)
 
