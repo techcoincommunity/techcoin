@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/TestingCrypto/techcoin.png?label=ready&title=Ready)](https://waffle.io/TestingCrypto/techcoin)
 # TECH ![TECH Logo](http://tech-co.in/img/logo.png "TECH Logo")
 
 [![Throughput Graph](https://graphs.waffle.io/techcoincommunity/techcoin/throughput.svg)](https://waffle.io/techcoincommunity/techcoin/metrics)
