@@ -1,9 +1,8 @@
-[![Stories in Ready](https://badge.waffle.io/TestingCrypto/techcoin.png?label=ready&title=Ready)](https://waffle.io/TestingCrypto/techcoin)
-# TECH ![TECH Logo](http://tech-co.in/img/logo.png "TECH Logo")
+[![Stories in Ready](https://badge.waffle.io/TestingCrypto/techcoin.png?label=ready&title=Ready)](https://waffle.io/TestingCrypto/techcoin)[![tip for next commit](https://tip4commit.com/projects/43087.svg)](https://tip4commit.com/github/techcoincommunity/techcoin)
+# TECH
+![TECH Logo](http://tech-co.in/img/logo.png "TECH Logo")
 
 [![Throughput Graph](https://graphs.waffle.io/techcoincommunity/techcoin/throughput.svg)](https://waffle.io/techcoincommunity/techcoin/metrics)
-
-[![Coverage Status](https://img.shields.io/coveralls/techcoincommunity/techcoin.svg)](https://coveralls.io/r/techcoincommunity/techcoin)[![tip for next commit](https://tip4commit.com/projects/43087.svg)](https://tip4commit.com/github/techcoincommunity/techcoin)[![gratipay](https://img.shields.io/gratipay/TestingCrypto.svg)](https://img.shields.io/gratipay/TestingCrypto/)[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/techcoincommunity/techcoin/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 # Tech Information:
 PoW/PoS Coin (Proof of work then Proof of stake)
@@ -18,10 +17,14 @@ addnode=54.69.85.176 // addnode=54.186.14.127 // addnode=54.68.85.238
 
 RPC Port: 57698 // P2P Port: 57697
 
+#License
+Bitcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+information or see http://opensource.org/licenses/MIT.
+
 # Development process:
 Developers work in their own trees, then submit pull requests when they think their feature or bug fix is ready.
 
-The patch will be accepted if there is broad consensus that it is a good thing. Developers should expect to rework and resubmit patches if they don't match the project's coding conventions (see coding.txt) or are controversial.
+The patch will be accepted if there is broad consensus that it is a good thing. Developers should expect to rework and resubmit patches if they don't match the project's coding conventions or are controversial.
 
 The master branch is regularly built and tested, but is not guaranteed to be completely stable. Tags are regularly created to indicate new stable release versions of Techcoin.
 
