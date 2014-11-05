@@ -1,1 +1,8 @@
 $ git clone --depth=50 --branch=master git://github.com/TestingCrypto/techcoin.git TestingCrypto/techcoin
+$ cd TestingCrypto/techcoin
+$ git checkout -qf b47c5cb521413c612ed53e386987f398820cd9de
+$ rvm use default
+$ ruby --version
+$ rvm --version
+$ gem --version
+$ rake
