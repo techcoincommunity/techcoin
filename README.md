@@ -1,23 +1,26 @@
-[![Build Status](https://travis-ci.org/TestingCrypto/techcoin.svg?branch=master)](https://travis-ci.org/TestingCrypto/techcoin)[![Stories in Ready](https://badge.waffle.io/TestingCrypto/techcoin.png?label=ready&title=Ready)](https://waffle.io/TestingCrypto/techcoin)[![Coverage Status](https://img.shields.io/coveralls/techcoincommunity/techcoin.svg)](https://coveralls.io/r/techcoincommunity/techcoin)[![tip for next commit](https://tip4commit.com/projects/43087.svg)](https://tip4commit.com/github/techcoincommunity/techcoin)[![gratipay](https://img.shields.io/gratipay/TestingCrypto.svg)](https://img.shields.io/gratipay/TestingCrypto/)[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/TestingCrypto/techcoin/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-# TECH ![TECH Logo](http://tech-co.in/img/logo.png "TECH Logo")
+[![Build Status](https://travis-ci.org/TestingCrypto/techcoin.svg?branch=master)](https://travis-ci.org/TestingCrypto/techcoin)[![Stories in Ready](https://badge.waffle.io/TestingCrypto/techcoin.png?label=ready&title=Ready)](https://waffle.io/TestingCrypto/techcoin)[![Coverage Status](https://img.shields.io/coveralls/techcoincommunity/techcoin.svg)](https://coveralls.io/r/techcoincommunity/techcoin)[![tip for next commit](https://tip4commit.com/projects/43087.svg)](https://tip4commit.com/github/techcoincommunity/techcoin)[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/TestingCrypto/techcoin/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
+# TECH 
+
+![TECH Logo](http://tech-co.in/img/logo.png "TECH Logo")
 
 [![Throughput Graph](https://graphs.waffle.io/techcoincommunity/techcoin/throughput.svg)](https://waffle.io/techcoincommunity/techcoin/metrics)
 
 
-Tech Information:
+#Tech Information:
 PoW/PoS Coin (Proof of work then Proof of stake)
 
 Algorithm: X13 POW/POS Ticker: TECH Genesis Block: 2014-06-24 11:02:45 Max POW: 186,985 TECH // Last PoW Block: 2014-06-28 01:59:48 PoS Starts on Block 5,000 ~4 days // First PoS Block: 2014-06-29 08:00:27 PoS 4% Annual Interest // PoS Minimum Stake Age: 1 Hour (12 Blocks) Total: ~300,000 TECH // ~12-13 years
 
-Timeline:
+#Timeline:
 LAUNCHED: Tues, June 24th, 2014 ABANDONED: Sun, June 29th, 2014 Community Take-Over: Sat, July 19th, 2014 Wallet Development: Sun, July 20th, 2014 Design New Original Post: Sun, August 24th, 2014 Wallet Development: Wed, September 10th, 2014 3rd Party Block Explorer: Mon, September 15th, 2014 Launched New OP Thread w/1% TECH giveaway: Tues, September 23rd, 2014 Stake2Win Program: Thursday, October 2nd, 2014 TECH Community Donation Development Pool: Sunday, October 4th, 2014 [TECH] Rating of 5 Plus+ POD has been given: Tuesday, October 14th, 2014 Stake2Win Session 1 has ended: Wednesday, October 15th, 2014 1% TECH giveaway has ended: Friday, October 17th, 2014 Wallet update v1.1.3 Tuesday, October 28th, 2014 Wallet update v1.1.4 Tuesday, November 4th, 2014
 
-Nodes / Ports:
+#Nodes / Ports:
 addnode=54.69.85.176 addnode=54.186.14.127 addnode=54.68.85.238
 
 RPC Port: 57698 P2P Port: 57697
 
-Development process
+#Development process:
 Developers work in their own trees, then submit pull requests when they think their feature or bug fix is ready.
 
 The patch will be accepted if there is broad consensus that it is a good thing. Developers should expect to rework and resubmit patches if they don't match the project's coding conventions (see coding.txt) or are controversial.
