@@ -2,5 +2,3 @@ language: cpp
 compiler:
   - gcc
   - clang
-# Change this to your needs
-script: ./configure && make
