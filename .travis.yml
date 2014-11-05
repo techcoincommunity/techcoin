@@ -4,7 +4,7 @@ compiler:
   - clang
 # Change this to your needs
 install:
-  - sudo apt-get install build-essential libssl-dev libdb4.8-dev libdb4.8++-dev libboost-all-dev
+  - sudo apt-get install build-essential libssl-dev libdb4.8-dev libboost-all-dev
 script:
   - cd src/
   - make -f makefile.unix
