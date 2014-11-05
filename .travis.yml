@@ -1,0 +1,1 @@
+$ git clone --depth=50 --branch=master git://github.com/TestingCrypto/techcoin.git TestingCrypto/techcoin
