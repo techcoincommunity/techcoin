@@ -1,4 +1,4 @@
-[![Stories in Ready](https://badge.waffle.io/TestingCrypto/techcoin.png?label=ready&title=Ready)](https://waffle.io/TestingCrypto/techcoin)[![tip for next commit](https://tip4commit.com/projects/43087.svg)](https://tip4commit.com/github/techcoincommunity/techcoin)
+[![Stories in Ready](https://badge.waffle.io/TestingCrypto/techcoin.png?label=ready&title=Ready)](https://waffle.io/TestingCrypto/techcoin)[![tip for next commit](https://tip4commit.com/projects/43087.svg)](https://tip4commit.com/github/techcoincommunity/techcoin)[![Bounty Source](https://www.bountysource.com/badge/team?team_id=45806&style=bounties_received)](https://www.bountysource.com/teams/tech-community-development)
 # TECH
 ![TECH Logo](http://tech-co.in/img/logo.png "TECH Logo")
 
@@ -11,6 +11,9 @@ Algorithm: X13 POW/POS // Ticker: TECH // Genesis Block: 2014-06-24 11:02:45 // 
 
 # Timeline:
 LAUNCHED: Tues, June 24th, 2014 // ABANDONED: Sun, June 29th, 2014 // Community Take-Over: Sat, July 19th, 2014 // Wallet Development: Sun, July 20th, 2014 // Design New Original Post: Sun, August 24th, 2014 // Wallet Development: Wed, September 10th, 2014 // 3rd Party Block Explorer: Mon, September 15th, 2014 // Launched New OP Thread w/1% TECH giveaway: Tues, September 23rd, 2014 // Stake2Win Program: Thursday, October 2nd, 2014 // TECH Community Donation Development Pool: Sunday, October 4th, 2014 // [TECH] Rating of 5 Plus+ POD has been given: Tuesday, October 14th, 2014 // Stake2Win Session 1 has ended: Wednesday, October 15th, 2014 // 1% TECH giveaway has ended: Friday, October 17th, 2014 // Wallet update v1.1.3 Tuesday, October 28th, 2014 // Wallet update v1.1.4 Tuesday, November 4th, 2014
+
+#TECH Links
+[![Visit our IRC channel](http://oi59.tinypic.com/nbx9j9.jpg)](https://kiwiirc.com/client/chat.freenode.net:+6697|?#techcoin)
 
 # Nodes / Ports:
 addnode=54.69.85.176 // addnode=54.186.14.127 // addnode=54.68.85.238
