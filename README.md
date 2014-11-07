@@ -13,7 +13,9 @@ LAUNCHED: Tues, June 24th, 2014 // ABANDONED: Sun, June 29th, 2014 // Community 
 
 #TECH Links:
 [![Visit our IRC channel](http://oi59.tinypic.com/nbx9j9.jpg)](https://kiwiirc.com/client/chat.freenode.net:+6697|?#techcoin)[![Visit our Twitter page](http://oi58.tinypic.com/14jat53.jpg)](https://twitter.com/TechcoinGroup)[![Visit our Facebook page](http://oi60.tinypic.com/4re3ki.jpg)](https://www.facebook.com/pages/TechCoin/738472479557133)[![Visit our Reddit page](http://oi58.tinypic.com/30uftyr.jpg)](http://www.reddit.com/r/techcoin/)
+
 [![Visit our Tumblr page](http://oi57.tinypic.com/15x09vr.jpg)](http://tech-coin.tumblr.com/)[![Visit our Pinterest page](http://oi57.tinypic.com/281fu2o.jpg)](http://www.pinterest.com/TestingCrypto/tech-coin-community-pin-it/)[![Visit our Google+ page](http://oi57.tinypic.com/sw60p2.jpg)](https://plus.google.com/u/0/b/103613383977545779663/103613383977545779663/about)[![Visit our Youtube page](http://oi62.tinypic.com/20uvn0n.jpg)](https://www.youtube.com/channel/UCaOXeFpu-0IWjb8btwZtfBw)
+
 [![Visit our BitCoinTalk Forum](http://oi58.tinypic.com/29pswo0.jpg)](https://bitcointalk.org/index.php?topic=794069.0)[![Visit our Casheer Forum](http://oi60.tinypic.com/34rd1r8.jpg)](http://forum.casheer.net/viewtopic.php?f=15&t=263)[![Visit our CryptoCoinTalk Forum](http://oi61.tinypic.com/2i1cpaf.jpg)](https://cryptocointalk.com/forum/1743-techcoin-tech/)
 
 # Nodes / Ports:
