@@ -1,4 +1,3 @@
-[![Stories in Ready](https://badge.waffle.io/TestingCrypto/techcoin.png?label=ready&title=Ready)](https://waffle.io/TestingCrypto/techcoin)[![tip for next commit](https://tip4commit.com/projects/43087.svg)](https://tip4commit.com/github/techcoincommunity/techcoin)[![Bounty Source](https://www.bountysource.com/badge/team?team_id=45806&style=bounties_received)](https://www.bountysource.com/teams/tech-community-development)
 # TECH
 ![TECH Logo](http://tech-co.in/img/logo.png "TECH Logo")
 
