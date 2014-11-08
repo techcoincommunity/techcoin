@@ -21,7 +21,7 @@
 #include "overviewpage.h"
 #include "statisticspage.h"
 #include "blockbrowser.h"
-//#include "chatwindow.h"
+#include "chatwindow.h"
 //#include "calculatorpage.h"
 //#include "marketplacepage.h"
 //#include "botspage.h"
