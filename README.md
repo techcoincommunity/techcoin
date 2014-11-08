@@ -1,3 +1,4 @@
+[ ![Codeship Status for TestingCrypto/techcoin](https://codeship.com/projects/814ff420-49a0-0132-ff36-2ed7adbe9f3c/status)](https://codeship.com/projects/46135)
 # TECH
 ![TECH Logo](http://tech-co.in/img/logo.png "TECH Logo")
 
