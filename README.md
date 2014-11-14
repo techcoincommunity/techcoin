@@ -34,18 +34,18 @@ LAUNCHED: Tues, June 24th, 2014 // ABANDONED: Sun, June 29th, 2014 // Community 
 # Current Giveaways ~ Twitter Exchange Campaign Giveaway
 [![Visit our BitCoinTalk Forum](http://books2download.nl/blog/wp-content/uploads/2011/04/twitterVStweet.gif)](https://twitter.com/TechcoinGroup)
 
-# Help TechCoin get on more exchanges and earn up to 15 TECH!
+# Help TechCoin get on more exchanges and earn up to 14 TECH!
 
 Step 1 - Register for the campaign by tweeting "@TechcoinGroup Exchange <your TECH address>"  Your Twitter handle and address will be registered.  Don't forget to follow us if you're not already!
 
 Step 2 - Tweet the following to your favorite exchange: "@<exchange> Please add @TechcoinGroup! Active, transparent dev team, 5+ POD, gives back to the community with contests and giveaways!"
 
-That's it!  You will automatically receive 1 TECH per exchange you tweet, up to 15 TECH!
+That's it!  You will automatically receive 1 TECH per exchange you tweet, up to 14 TECH!
 
 List of exchanges included in campaign:
 
 @AllCoinEx (AllCoin)
-@All_Crypt (AllCrypt)
+@All_Crypt (AllCrypt) ![Added](http://oi62.tinypic.com/11vs3zb.jpg "Added
 @AskCoinNet (AskCoin)
 @Bleutrade (Bleutrade)
 @btcmarketorg (BTC Market)
@@ -77,7 +77,7 @@ Friday, October 17, 2014
 [![1% Giveaway Ledger](http://oi59.tinypic.com/idzzet.jpg)](https://docs.google.com/spreadsheets/d/1FLFVyA_pkIBEYv-grl9fq1nWS9fkhkdAC5MhF_44au4/edit?usp=sharing)
 
 # Exchanges
-[![Bittrex Exchange](http://oi58.tinypic.com/2dr9u6a.jpg)](https://bittrex.com/Market/Index?MarketName=BTC-TECH)
+[![Bittrex Exchange](http://oi58.tinypic.com/2dr9u6a.jpg)](https://bittrex.com/Market/Index?MarketName=BTC-TECH)[![Allcrypt Exchange](https://www.allcrypt.com/acsmallnotag.png)](https://www.allcrypt.com/market?id=1258)
 
 # Block Explorers
 [![Crypto ID](https://chainz.cryptoid.info/theme/cryptoID64.png)](https://chainz.cryptoid.info/tech/)
