@@ -31,10 +31,12 @@ LAUNCHED: Tues, June 24th, 2014 // ABANDONED: Sun, June 29th, 2014 // Community 
 # Forums:
 [![Visit our BitCoinTalk Forum](http://oi58.tinypic.com/29pswo0.jpg)](https://bitcointalk.org/index.php?topic=794069.0)[![Visit our Casheer Forum](http://oi60.tinypic.com/34rd1r8.jpg)](http://forum.casheer.net/viewtopic.php?f=15&t=263)[![Visit our CryptoCoinTalk Forum](http://oi61.tinypic.com/2i1cpaf.jpg)](https://cryptocointalk.com/forum/1743-techcoin-tech/)
 
-# Current Giveaways ~ Twitter Exchange Campaign Giveaway
-[![Visit our BitCoinTalk Forum](http://books2download.nl/blog/wp-content/uploads/2011/04/twitterVStweet.gif)](https://twitter.com/TechcoinGroup)
+# Current Giveaways
 
-# Help TechCoin get on more exchanges and earn up to 14 TECH!
+Twitter Exchange Campaign Giveaway
+[![Twitter Exchange Campaign Giveaway](http://books2download.nl/blog/wp-content/uploads/2011/04/twitterVStweet.gif)](https://twitter.com/TechcoinGroup)
+
+Help TechCoin get on more exchanges and earn up to 14 TECH!
 
 Step 1 - Register for the campaign by tweeting "@TechcoinGroup Exchange <your TECH address>"  Your Twitter handle and address will be registered.  Don't forget to follow us if you're not already!
 
@@ -61,8 +63,18 @@ List of exchanges included in campaign:
 
 # Exchange Giveaway Wallet:
 [![Twitter Campaign Giveaways](http://oi61.tinypic.com/2v1rssw.jpg)](https://chainz.cryptoid.info/tech/address.dws?5337.htm)
-# Exchange Giveaway ledger:
+# Exchange Giveaway Ledger:
 [![Exchange Campaign Giveaways](http://oi59.tinypic.com/idzzet.jpg)](https://docs.google.com/spreadsheets/d/1En4GbWjswNLEpxPcqVlhADY6y_MZFB2Y9Y4LVlI_j6Q/edit?usp=sharing)
+
+Reddit giveaway, post your thoughts on TECH for TECH.
+[![Reddit Campaign Giveaway](http://rack.0.mshcdn.com/media/ZgkyMDE0LzA4LzA3LzZkL2Zyb250cGFnZTEuODA3ZjguZ2lmCnAJdGh1bWIJMTIwMHg5NjAwPg/9640b5b4/207/front-page1.gif)](http://www.reddit.com/r/techcoin/)
+
+TECH development will be starting an ongoing Reddit giveaway (Tuesday, November 11th, 2014), every person to post their thoughts on building the TECH APP will receive 1 TECH coin. Just post your address, only one post per user a day is allowed (1 TECH per day | per post). Thanks for being a part of the TECH community.
+
+# Reddit Giveaway Wallet:
+[![Reddit Campaign Giveaways](http://oi61.tinypic.com/2v1rssw.jpg)](https://chainz.cryptoid.info/tech/search.dws?q=TAKzzju6t18DextiQJ7HVDNkgb4PmdkRmr)
+# Reddit Giveaway Ledger
+[![Reddit Campaign Ledger](http://oi59.tinypic.com/idzzet.jpg)](https://docs.google.com/spreadsheets/d/1T2L8dPQFIjwMFJXG9gk52aTrTEdUoSqlS1oUa2B2s6A/edit?usp=sharing)
 
 # Recent Giveaways
 "The 1% TECH giveaway has concluded.  
