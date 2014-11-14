@@ -45,7 +45,6 @@ That's it!  You will automatically receive 1 TECH per exchange you tweet, up to
 List of exchanges included in campaign:
 
 @AllCoinEx (AllCoin)
-@All_Crypt (AllCrypt) ![Added](http://oi62.tinypic.com/11vs3zb.jpg "Added
 @AskCoinNet (AskCoin)
 @Bleutrade (Bleutrade)
 @btcmarketorg (BTC Market)
