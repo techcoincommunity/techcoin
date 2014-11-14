@@ -61,7 +61,7 @@ List of exchanges included in campaign:
 
 # Exchange Giveaway Wallet:
 [![Twitter Campaign Giveaways](http://oi61.tinypic.com/2v1rssw.jpg)](https://chainz.cryptoid.info/tech/address.dws?5337.htm)
-# Giveaway ledger:
+# Exchange Giveaway ledger:
 [![Exchange Campaign Giveaways](http://oi59.tinypic.com/idzzet.jpg)](https://docs.google.com/spreadsheets/d/1En4GbWjswNLEpxPcqVlhADY6y_MZFB2Y9Y4LVlI_j6Q/edit?usp=sharing)
 
 # Recent Giveaways
@@ -72,7 +72,7 @@ Friday, October 17, 2014
 
 # 1% Twitter Giveaway Wallet:
 [![1% Twitter Giveaway](http://oi61.tinypic.com/2v1rssw.jpg)](https://chainz.cryptoid.info/tech/address.dws?TKLj8v4RjXSuo7kmZ3b7zDX14RcwawGaeC.htm)
-# Giveaway ledger:
+# 1% Giveaway ledger:
 [![1% Giveaway Ledger](http://oi59.tinypic.com/idzzet.jpg)](https://docs.google.com/spreadsheets/d/1FLFVyA_pkIBEYv-grl9fq1nWS9fkhkdAC5MhF_44au4/edit?usp=sharing)
 
 # Exchanges
