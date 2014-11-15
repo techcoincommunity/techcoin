@@ -307,7 +307,7 @@
           <string>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</string>
          </property>
          <property name="text">
-          <string>M&amp;inimize on close</string>
+          <string>&amp;Minimize on close</string>
          </property>
         </widget>
        </item>
