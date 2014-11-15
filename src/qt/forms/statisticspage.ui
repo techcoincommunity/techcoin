@@ -223,7 +223,7 @@ font-family:'Open Sans,sans-serif';</string>
            <string notr="true">color:#121117;</string>
           </property>
           <property name="text">
-           <string>Proof of Work</string>
+           <string>Proof of Stake</string>
           </property>
          </widget>
         </item>
