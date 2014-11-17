@@ -38,7 +38,7 @@ compilation will take much longer due to swap thrashing.
 
 Dependency Build Instructions: Ubuntu & Debian
 ----------------------------------------------
-Build requirements:
+Build requirements (if you don't want the Qt app you can omit libqtgui4 and libqt4-dev):
 
 	sudo apt-get update
 	sudo apt-get upgrade
