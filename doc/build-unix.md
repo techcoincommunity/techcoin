@@ -40,12 +40,12 @@ Dependency Build Instructions: Ubuntu & Debian
 ----------------------------------------------
 Build requirements:
 
-sudo apt-get update
-sudo apt-get upgrade
-sudo apt-get install build-essential pkg-config
-sudo apt-get install libtool autotools-dev autoconf automake
-sudo apt-get install libssl-dev libdb-dev libdb++-dev libqrencode-dev qt4-qmake libqtgui4 libqt4-dev git
-sudo apt-get install libminiupnpc-dev libminiupnpc8 libboost-all-dev
+	sudo apt-get update
+	sudo apt-get upgrade
+	sudo apt-get install build-essential pkg-config
+	sudo apt-get install libtool autotools-dev autoconf automake
+	sudo apt-get install libssl-dev libdb-dev libdb++-dev libqrencode-dev qt4-qmake libqtgui4 libqt4-dev git
+	sudo apt-get install libminiupnpc-dev libminiupnpc8 libboost-all-dev
 
 Downloading Source
 ------------------
