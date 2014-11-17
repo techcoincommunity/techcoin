@@ -51,34 +51,37 @@ Downloading Source
 ------------------
 1. Create directories and clone git repository:
     
-      cd ~ && mkdir -p ~/cryptos && cd ~/cryptos && git clone https://github.com/techcoincommunity/techcoin
+	cd ~ && mkdir -p ~/cryptos && cd ~/cryptos && git clone https://github.com/techcoincommunity/techcoin
 
 Compiling daemon (Techcoind) from source
 ----------------------------------------   
 1. Compile:
+
 	cd ~/cryptos/techcoin/src && mkdir obj && make -f makefile.unix
 
 2. Strip debug symbols (optional but recommended: reduces binary size):
+
 	strip Techcoind
       
 3. Allow daemon to be accessed from any path (optional: allows to use Techcoind <command> instead of using full path):
+
 	sudo mv Techcoind /usr/local/bin
 
 Compiling TechCoin-Qt from source
 ---------------------------------
 1. Compile:
 
-      cd ~/cryptos/techcoin && qmake techcoin-qt-linux.pro && make
+	cd ~/cryptos/techcoin && qmake techcoin-qt-linux.pro && make
 
 2. Strip debug symbols (optional but recommended: reduces binary size):
 
-      strip techcoin-qt
+	strip techcoin-qt
       
 Updating
 --------
 1. Pull fresh code from git:
 
-      cd ~/cryptos/techcoin && git pull
+	cd ~/cryptos/techcoin && git pull
       
 2. Repeat procedure for daemon or Qt (all steps)
 
