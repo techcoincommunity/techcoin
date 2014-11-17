@@ -23,36 +23,38 @@ Setup
 Install dependencies:
 
 	sudo apt-get install -y git build-essential libboost1.50-dev libboost-filesystem1.50-dev libboost-system1.50-dev libboost-program-options1.50-dev libboost-thread1.50-dev libssl-dev libdb5.1++-dev libminiupnpc-dev qt4-qmake libqt4-dev
-
-Downloading Source
-------------------
+	
 Create directories and clone git repository:
-    
-	cd ~ && mkdir -p ~/cryptos && cd ~/cryptos && git clone https://github.com/techcoincommunity/techcoin
+
+	cd ~ && mkdir -p ~/cryptos && cd ~/cryptos && git clone git://github.com/techcoincommunity/techcoin
 
 Compiling daemon (Techcoind) from source
-----------------------------------------   
-Compile:
-
+----------------------------------------
+Compile (takes some time, depending on CPU speed, ~2h on stock 700Mhz):
+    
 	cd ~/cryptos/techcoin/src && mkdir obj && make -f makefile.unix
-
-Strip debug symbols (optional but recommended: reduces binary size):
+	
+Strip debug symbols (optional bur recommended: reduces binary size):
 
 	strip Techcoind
-      
-Allow daemon to be accessed from any path (optional: allows to use Techcoind <command> instead of using full path):
+	
+Allow daemon to be accessed from any path (optional: allows to use Techcoind <command> instead of using full path:
 
 	sudo mv Techcoind /usr/local/bin
 
 Compiling TechCoin-Qt from source
 ---------------------------------
-Compile:
+Compile (takes even more time, depending on CPU speed, 4-8 hours):
 
 	cd ~/cryptos/techcoin && qmake techcoin-qt-linux.pro && make
 
 Strip debug symbols (optional but recommended: reduces binary size):
 
 	strip techcoin-qt
+	
+Create Desktop icon (optional but useful:
+
+	wget https://raw.githubusercontent.com/techcoincommunity/techcoin/master/src/qt/res/icons/TechCoin-128.png -O ~/.TechCoin/icon.png && echo -e "[Desktop Entry]\nName=TechCoin\nType=Application\nComment=TECH rebuilt! \nCategories=Application\nExec=/home/pi/cryptos/techcoin/techcoin-qt\nIcon=/home/pi/.TechCoin/icon.png\nTerminal=false\nStartupNotify=true" > ~/Desktop/techcoin.desktop
       
 Updating
 --------
