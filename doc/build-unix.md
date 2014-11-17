@@ -49,7 +49,7 @@ Build requirements:
 
 Downloading Source
 ------------------
-1. Create directories and clone git repository:
+Create directories and clone git repository:
     
 	cd ~ && mkdir -p ~/cryptos && cd ~/cryptos && git clone https://github.com/techcoincommunity/techcoin
 
