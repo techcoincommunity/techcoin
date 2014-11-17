@@ -7,16 +7,16 @@ Prerequisites
 * Raspberry Pi + Raspbian
 * __RAM__
 	* compilation could take up to 300MB of memory
-..* model A with 256MB RAM - you will need bigger swap
---* model B and B+ with 512MB RAM - standard swap file (100MB) will do
---* maximize your RAM
-----* _sudo raspi-config_ - Advanced Options -> Memory Split -> set GPU memory to minimum (16MB)
---* free as much RAM as possible (if you run other applications/servers close them for the time of compilation)
+	* model A with 256MB RAM - you will need bigger swap
+	* model B and B+ with 512MB RAM - standard swap file (100MB) will do
+	* maximize your RAM
+		* _sudo raspi-config_ - Advanced Options -> Memory Split -> set GPU memory to minimum (16MB)
+	* free as much RAM as possible (if you run other applications/servers close them for the time of compilation)
 * __Disk space__
-..* maximize your free space on SD card (min. 8GB card is recommended)
-....* _sudo raspi-config_ - Expand Filesystem (expands disk space to take all available SD card capacity)
+	* maximize your free space on SD card (min. 8GB card is recommended)
+		* _sudo raspi-config_ - Expand Filesystem (expands disk space to take all available SD card capacity)
 * Updated repositories
-..* _sudo apt-get update_
+	* _sudo apt-get update_
 
 Dependency Build Instructions: Ubuntu & Debian
 ----------------------------------------------
