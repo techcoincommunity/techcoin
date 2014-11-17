@@ -55,35 +55,35 @@ Create directories and clone git repository:
 
 Compiling daemon (Techcoind) from source
 ----------------------------------------   
-1. Compile:
+Compile:
 
 	cd ~/cryptos/techcoin/src && mkdir obj && make -f makefile.unix
 
-2. Strip debug symbols (optional but recommended: reduces binary size):
+Strip debug symbols (optional but recommended: reduces binary size):
 
 	strip Techcoind
       
-3. Allow daemon to be accessed from any path (optional: allows to use Techcoind <command> instead of using full path):
+Allow daemon to be accessed from any path (optional: allows to use Techcoind <command> instead of using full path):
 
 	sudo mv Techcoind /usr/local/bin
 
 Compiling TechCoin-Qt from source
 ---------------------------------
-1. Compile:
+Compile:
 
 	cd ~/cryptos/techcoin && qmake techcoin-qt-linux.pro && make
 
-2. Strip debug symbols (optional but recommended: reduces binary size):
+Strip debug symbols (optional but recommended: reduces binary size):
 
 	strip techcoin-qt
       
 Updating
 --------
-1. Pull fresh code from git:
+Pull fresh code from git:
 
 	cd ~/cryptos/techcoin && git pull
       
-2. Repeat procedure for daemon or Qt (all steps)
+Repeat procedure for daemon or Qt (all steps)
 
 Dependency Build Instructions: Fedora
 -------------------------------------
