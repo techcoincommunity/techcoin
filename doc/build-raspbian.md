@@ -6,7 +6,7 @@ Prerequisites
 ---------------------
 * Raspberry Pi + Raspbian
 * __RAM__
-..* compilation could take up to 300MB of memory
+	* compilation could take up to 300MB of memory
 ..* model A with 256MB RAM - you will need bigger swap
 --* model B and B+ with 512MB RAM - standard swap file (100MB) will do
 --* maximize your RAM
