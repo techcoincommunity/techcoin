@@ -18,16 +18,11 @@ Prerequisites
 * Updated repositories
 	* _sudo apt-get update_
 
-Dependency Build Instructions: Ubuntu & Debian
-----------------------------------------------
-Build requirements (if you don't want the Qt app you can omit libqtgui4 and libqt4-dev):
+Setup
+-----
+Install dependencies:
 
-	sudo apt-get update
-	sudo apt-get upgrade
-	sudo apt-get install build-essential pkg-config
-	sudo apt-get install libtool autotools-dev autoconf automake
-	sudo apt-get install libssl-dev libdb-dev libdb++-dev libqrencode-dev qt4-qmake libqtgui4 libqt4-dev git
-	sudo apt-get install libminiupnpc-dev libminiupnpc8 libboost-all-dev
+	sudo apt-get install -y git build-essential libboost1.50-dev libboost-filesystem1.50-dev libboost-system1.50-dev libboost-program-options1.50-dev libboost-thread1.50-dev libssl-dev libdb5.1++-dev libminiupnpc-dev qt4-qmake libqt4-dev
 
 Downloading Source
 ------------------
