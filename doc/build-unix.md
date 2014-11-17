@@ -56,16 +56,13 @@ Downloading Source
 Compiling daemon (Techcoind) from source
 ----------------------------------------   
 1. Compile:
-
-      cd ~/cryptos/techcoin/src && mkdir obj && make -f makefile.unix
+	cd ~/cryptos/techcoin/src && mkdir obj && make -f makefile.unix
 
 2. Strip debug symbols (optional but recommended: reduces binary size):
-
-      strip Techcoind
+	strip Techcoind
       
 3. Allow daemon to be accessed from any path (optional: allows to use Techcoind <command> instead of using full path):
-    
-      sudo mv Techcoind /usr/local/bin
+	sudo mv Techcoind /usr/local/bin
 
 Compiling TechCoin-Qt from source
 ---------------------------------
