@@ -83,7 +83,7 @@ Updating
 
       cd ~/cryptos/techcoin && git pull
       
-2. Repeat procedure for daemin or Qt (all steps)
+2. Repeat procedure for daemon or Qt (all steps)
 
 Dependency Build Instructions: Fedora
 -------------------------------------
