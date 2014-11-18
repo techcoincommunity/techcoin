@@ -19,16 +19,16 @@ TECH Information
 ====================
     
 
-     Ticker: TECH           | PoW/PoS                 | Algorithm:X13 
-    ------------------------|-------------------------|---------------
-     Genesis Block:         | 2014-06-24              | 11:02:45              
-     Max POW:               | 186,985 TECH            | -                                        
-     Last PoW Block:        | 2014-06-28              | 01:59:48              
-     PoS Starts on Block:   | 5,000                   | ~ 4 Days      
-     First PoS Block:       | 2014-06-29              | 08:00:27      
-     PoS Annual Interest:   | 4%                      | -              
-     PoS Minimum Stake Age: | 1 Hour                  | (12 Blocks)   
-     Total:                 | ~ 300,000 TECH          | 12-13 years   
+     Ticker: TECH           | PoW/PoS                 | Algorithm:X13      |        Nodes         |           Ports
+    ------------------------|-------------------------|--------------------|----------------------|-----------------
+     Genesis Block:         | 2014-06-24              | 11:02:45           |        54.69.85.176  |           57698
+     Max POW:               | 186,985 TECH            | -                  |        54.186.14.127 |           57697
+     Last PoW Block:        | 2014-06-28              | 01:59:48           |        54.68.85.238  |
+     PoS Starts on Block:   | 5,000                   | ~ 4 Days           |                      |
+     First PoS Block:       | 2014-06-29              | 08:00:27           |                      |
+     PoS Annual Interest:   | 4%                      | -                  |                      |
+     PoS Minimum Stake Age: | 1 Hour                  | (12 Blocks)        |                      |
+     Total:                 | ~ 300,000 TECH          | 12-13 years        |                      |
 
 Timeline
 ====================
@@ -97,20 +97,16 @@ List of exchanges included in campaign:
     14 | @swisscex                      | (Swiss Coin Exchange)
 
 
-# Exchange Giveaway Wallet:
-[![Twitter Campaign Giveaways](http://oi61.tinypic.com/2v1rssw.jpg)](https://chainz.cryptoid.info/tech/address.dws?5337.htm)
-# Exchange Giveaway Ledger:
-[![Exchange Campaign Giveaways](http://oi59.tinypic.com/idzzet.jpg)](https://docs.google.com/spreadsheets/d/1En4GbWjswNLEpxPcqVlhADY6y_MZFB2Y9Y4LVlI_j6Q/edit?usp=sharing)
+# Exchange Giveaway Wallet & Ledger:
+[![Twitter Campaign Giveaways](http://oi61.tinypic.com/2v1rssw.jpg)](https://chainz.cryptoid.info/tech/address.dws?5337.htm)[![Exchange Campaign Giveaways](http://oi59.tinypic.com/idzzet.jpg)](https://docs.google.com/spreadsheets/d/1En4GbWjswNLEpxPcqVlhADY6y_MZFB2Y9Y4LVlI_j6Q/edit?usp=sharing)
 
 Reddit giveaway, post your thoughts on TECH for TECH.
 [![Reddit Campaign Giveaway](http://rack.0.mshcdn.com/media/ZgkyMDE0LzA4LzA3LzZkL2Zyb250cGFnZTEuODA3ZjguZ2lmCnAJdGh1bWIJMTIwMHg5NjAwPg/9640b5b4/207/front-page1.gif)](http://www.reddit.com/r/techcoin/)
 
 TECH development will be starting an ongoing Reddit giveaway (Tuesday, November 11th, 2014), every person to post their thoughts on building the TECH APP will receive 1 TECH coin. Just post your address, only one post per user a day is allowed (1 TECH per day | per post). Thanks for being a part of the TECH community.
 
-# Reddit Giveaway Wallet:
-[![Reddit Campaign Giveaways](http://oi61.tinypic.com/2v1rssw.jpg)](https://chainz.cryptoid.info/tech/search.dws?q=TAKzzju6t18DextiQJ7HVDNkgb4PmdkRmr)
-# Reddit Giveaway Ledger
-[![Reddit Campaign Ledger](http://oi59.tinypic.com/idzzet.jpg)](https://docs.google.com/spreadsheets/d/1T2L8dPQFIjwMFJXG9gk52aTrTEdUoSqlS1oUa2B2s6A/edit?usp=sharing)
+# Reddit Giveaway Wallet & Ledger:
+[![Reddit Campaign Giveaways](http://oi61.tinypic.com/2v1rssw.jpg)](https://chainz.cryptoid.info/tech/search.dws?q=TAKzzju6t18DextiQJ7HVDNkgb4PmdkRmr)[![Reddit Campaign Ledger](http://oi59.tinypic.com/idzzet.jpg)](https://docs.google.com/spreadsheets/d/1T2L8dPQFIjwMFJXG9gk52aTrTEdUoSqlS1oUa2B2s6A/edit?usp=sharing)
 
 # Recent Giveaways
 "The 1% TECH giveaway has concluded.  
@@ -118,10 +114,8 @@ We have given away 1% of all POW coins to over 100 TECH community members!
 Watch this space for future giveaways and promotions!"
 Friday, October 17, 2014
 
-# 1% Twitter Giveaway Wallet:
-[![1% Twitter Giveaway](http://oi61.tinypic.com/2v1rssw.jpg)](https://chainz.cryptoid.info/tech/address.dws?TKLj8v4RjXSuo7kmZ3b7zDX14RcwawGaeC.htm)
-# 1% Giveaway ledger:
-[![1% Giveaway Ledger](http://oi59.tinypic.com/idzzet.jpg)](https://docs.google.com/spreadsheets/d/1FLFVyA_pkIBEYv-grl9fq1nWS9fkhkdAC5MhF_44au4/edit?usp=sharing)
+# 1% Twitter Giveaway Wallet & ledger:
+[![1% Twitter Giveaway](http://oi61.tinypic.com/2v1rssw.jpg)](https://chainz.cryptoid.info/tech/address.dws?TKLj8v4RjXSuo7kmZ3b7zDX14RcwawGaeC.htm)[![1% Giveaway Ledger](http://oi59.tinypic.com/idzzet.jpg)](https://docs.google.com/spreadsheets/d/1FLFVyA_pkIBEYv-grl9fq1nWS9fkhkdAC5MhF_44au4/edit?usp=sharing)
 
 # Exchanges
 [![Bittrex Exchange](http://oi58.tinypic.com/2dr9u6a.jpg)](https://bittrex.com/Market/Index?MarketName=BTC-TECH)[![Allcrypt Exchange](https://www.allcrypt.com/acsmallnotag.png)](https://www.allcrypt.com/market?id=1258)
@@ -129,11 +123,6 @@ Friday, October 17, 2014
 # Block Explorers
 [![Crypto ID](https://chainz.cryptoid.info/theme/cryptoID64.png)](https://chainz.cryptoid.info/tech/)
 [![Tech Blocks](http://oi60.tinypic.com/2n7dzmd.jpg)](http://techblocks.chainworks.info:8324/chain/Techcoin)
-
-# Nodes / Ports:
-addnode=54.69.85.176 // addnode=54.186.14.127 // addnode=54.68.85.238
-
-RPC Port: 57698 // P2P Port: 57697
 
 #License
 Bitcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
