@@ -34,10 +34,6 @@ Compile (takes some time, depending on CPU speed, ~2h on stock 700Mhz):
     
 	cd ~/cryptos/techcoin/src && mkdir obj && make -f makefile.unix
 	
-Strip debug symbols (optional bur recommended: reduces binary size):
-
-	strip Techcoind
-	
 Allow daemon to be accessed from any path (optional: allows to use Techcoind <command> instead of using full path:
 
 	sudo mv Techcoind /usr/local/bin
