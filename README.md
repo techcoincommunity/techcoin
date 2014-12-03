@@ -50,7 +50,14 @@ Timeline
     13 | Friday, October 17th, 2014     | 1% TECH giveaway
     14 | Tuesday, October 28th, 2014    | Wallet update v1.1.3
     15 | Tuesday, November 4th, 2014    | Wallet update v1.1.4
-    16 | Tuesday, November 11th, 2014   | Wallet update v1.1.4.1
+    16 | Wednesday, November 5th, 2014  | Stake2Win Session 2
+    17 | Tuesday, November 11th, 2014   | Wallet update v1.1.4.1
+    18 | Tuesday, November 18th, 2014   | TECH Raspberry Pi
+    19 | Friday, November 21, 2014      | TECHCOIN Added to Casheer-App list
+    20 | Wednesday, December 3th, 2014  | Stake2Win Session 3
+
+# TECHCOIN News
+[![Altcoin Today](http://www.altcointoday.com/wp-content/uploads/2014/06/altcointoday_banner3.png)](http://www.altcointoday.com/techcoin-stake-to-win-2/)
 
 # Development Channels
 [![Trello](http://oi62.tinypic.com/dno7km.jpg)](https://trello.com/b/LjkIMAuz/tech-roadmap)[![Trello](https://www.coingecko.com/assets/coingecko-logo-7aac30c256cc4cbe84af232d6bcb315d.png)](https://www.coingecko.com/en/coins/techcoin)
@@ -63,6 +70,13 @@ Timeline
 
 # Forums:
 [![Visit our BitCoinTalk Forum](http://oi58.tinypic.com/29pswo0.jpg)](https://bitcointalk.org/index.php?topic=794069.0)[![Visit our Casheer Forum](http://oi60.tinypic.com/34rd1r8.jpg)](http://forum.casheer.net/viewtopic.php?f=15&t=263)[![Visit our CryptoCoinTalk Forum](http://oi61.tinypic.com/2i1cpaf.jpg)](https://cryptocointalk.com/forum/1743-techcoin-tech/)
+
+# Exchanges
+[![Bittrex Exchange](http://oi58.tinypic.com/2dr9u6a.jpg)](https://bittrex.com/Market/Index?MarketName=BTC-TECH)[![Allcrypt Exchange](https://www.allcrypt.com/acsmallnotag.png)](https://www.allcrypt.com/market?id=1258)
+
+# Block Explorers
+[![Crypto ID](https://chainz.cryptoid.info/theme/cryptoID64.png)](https://chainz.cryptoid.info/tech/)
+[![Tech Blocks](http://oi60.tinypic.com/2n7dzmd.jpg)](http://techblocks.chainworks.info:8324/chain/Techcoin)
 
 # Current Giveaways
 
@@ -116,13 +130,6 @@ Friday, October 17, 2014
 
 # 1% Twitter Giveaway Wallet & ledger:
 [![1% Twitter Giveaway](http://oi61.tinypic.com/2v1rssw.jpg)](https://chainz.cryptoid.info/tech/address.dws?TKLj8v4RjXSuo7kmZ3b7zDX14RcwawGaeC.htm)[![1% Giveaway Ledger](http://oi59.tinypic.com/idzzet.jpg)](https://docs.google.com/spreadsheets/d/1FLFVyA_pkIBEYv-grl9fq1nWS9fkhkdAC5MhF_44au4/edit?usp=sharing)
-
-# Exchanges
-[![Bittrex Exchange](http://oi58.tinypic.com/2dr9u6a.jpg)](https://bittrex.com/Market/Index?MarketName=BTC-TECH)[![Allcrypt Exchange](https://www.allcrypt.com/acsmallnotag.png)](https://www.allcrypt.com/market?id=1258)
-
-# Block Explorers
-[![Crypto ID](https://chainz.cryptoid.info/theme/cryptoID64.png)](https://chainz.cryptoid.info/tech/)
-[![Tech Blocks](http://oi60.tinypic.com/2n7dzmd.jpg)](http://techblocks.chainworks.info:8324/chain/Techcoin)
 
 #License
 Bitcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
