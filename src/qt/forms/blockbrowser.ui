@@ -12,8 +12,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>794</width>
-    <height>514</height>
+    <width>1024</width>
+    <height>768</height>
    </rect>
   </property>
   <property name="sizePolicy">
@@ -101,7 +101,7 @@
         <x>0</x>
         <y>50</y>
         <width>701</width>
-        <height>400</height>
+        <height>406</height>
        </rect>
       </property>
       <layout class="QGridLayout" name="gridLayout_3" rowstretch="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" columnstretch="0,0">
@@ -433,10 +433,37 @@
        </item>
       </layout>
      </widget>
+     <widget class="QWebView" name="webView">
+      <property name="geometry">
+       <rect>
+        <x>-1</x>
+        <y>-1</y>
+        <width>991</width>
+        <height>741</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <family>Lucida Grande</family>
+       </font>
+      </property>
+      <property name="url">
+       <url>
+        <string>https://chainz.cryptoid.info/tech/</string>
+       </url>
+      </property>
+     </widget>
     </widget>
    </item>
   </layout>
  </widget>
+ <customwidgets>
+  <customwidget>
+   <class>QWebView</class>
+   <extends>QWidget</extends>
+   <header>QtWebKit/QWebView</header>
+  </customwidget>
+ </customwidgets>
  <resources/>
  <connections/>
 </ui>

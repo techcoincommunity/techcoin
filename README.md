@@ -1,5 +1,4 @@
-TECH COIN | Wallet Version 1.4.1.1
-====================
+TECH COIN | Wallet Version 1.2.0.0====================
 ![TECH Logo](http://tech-co.in/img/logo.png "TECH Logo")[![PoD](http://cryptoasian.com/wp-content/uploads/2014/10/ratingTECH2.jpg)](http://cryptoasian.com/tech-techcoin/)
 
 New Dev Team / Community Members

@@ -80,7 +80,7 @@ BitcoinGUI::BitcoinGUI(QWidget *parent):
     notificator(0),
     rpcConsole(0)
 {
-    setFixedSize(970, 550);
+    setFixedSize(1244, 798);
     setWindowTitle(tr("TechCoin") + " " + tr("Wallet"));
     qApp->setStyleSheet("QMainWindow { background-color:#ecf0f1; font-family:'Open Sans,sans-serif'; } #frame { } QToolBar QLabel { padding-top:15px;padding-bottom:10px;margin:0px; } #spacer { background-color:transparent;border:none; } #toolbar2 { border:none;width:10px; background-color:qlineargradient(y1: 0, y2: 1, stop: 0 rgb(51,0,249), stop: 1 rgb(51,0,249)); } #toolbar { border:none;height:100%;padding-top:20px; background-color:#16151b; text-align: left; color: white; min-width:175px;max-width:175px;} QToolBar QToolButton:hover {background-color:transparent;} QToolBar QToolButton { font-family:Century Gothic;padding-left:20px;padding-right:200px;padding-top:10px;padding-bottom:10px; width:100%; color: white; text-align: left; background-color:transparent; } #labelMiningIcon { padding-left:5px;font-family:Century Gothic;width:100%;font-size:10px;text-align:center;color:white; } QMenu { background-color:#16151b; color:white; padding-bottom:10px; } QMenu::item { color:white; background-color: transparent; } QMenu::item:selected { background-color:transparent; } QMenuBar { background-color:#16151b; color:white; } QMenuBar::item { font-size:12px;padding-bottom:5px;padding-top:5px;padding-left:10px;padding-right:10px;color:white; background-color: transparent; } QMenuBar::item:selected { background-color:transparent; }");
 #ifndef Q_OS_MAC
@@ -764,8 +764,8 @@ void BitcoinGUI::gotoOverviewPage()
 {
     overviewAction->setChecked(true);
     centralWidget->setCurrentWidget(overviewPage);
-    centralWidget->setMaximumWidth(750);
-    centralWidget->setMaximumHeight(520);
+    centralWidget->setMaximumWidth(1024);
+    centralWidget->setMaximumHeight(768);
 
     exportAction->setEnabled(false);
     disconnect(exportAction, SIGNAL(triggered()), 0, 0);
