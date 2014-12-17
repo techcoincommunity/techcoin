@@ -8,6 +8,7 @@ CONFIG += thread
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 lessThan(QT_MAJOR_VERSION, 5): CONFIG += static
 QMAKE_CXXFLAGS = -fpermissive
+QT += webkit
 
 greaterThan(QT_MAJOR_VERSION, 4) {
     QT += widgets
