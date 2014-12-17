@@ -87,20 +87,3 @@ Pull fresh code from git:
       
 Repeat procedure for daemon or Qt (all steps)
 
-Dependency Build Instructions: Fedora
--------------------------------------
-
-Tested on Fedora 20:
-
-	sudo yum install autoconf automake make gcc-c++
-	sudo yum install openssl-devel
-	sudo yum install miniupnpc-devel
-	sudo yum install boost-devel
-	sudo yum install libdb-cxx-devel
-	sudo yum install libss-devel
-	sudo yum install qrencode
-
-Optional:
-
-	sudo yum install miniupnpc-devel (see USE_UPNP compile flag)
-
