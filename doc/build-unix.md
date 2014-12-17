@@ -14,6 +14,7 @@ Dependencies
  qt          | GUI              | GUI toolkit
  protobuf    | Payments in GUI  | Data interchange format used for payment protocol
  libqrencode | QR codes in GUI  | Optional for generating QR codes
+ libwebkit   | HTTP Support     | Allows rendering of webpages in wallet
 
 [miniupnpc](http://miniupnp.free.fr/) may be used for UPnP port mapping.  It can be downloaded from [here](
 http://miniupnp.tuxfamily.org/files/).  UPnP support is compiled in and
@@ -46,6 +47,7 @@ Build requirements (if you don't want the Qt app you can omit libqtgui4 and libq
 	sudo apt-get install libtool autotools-dev autoconf automake
 	sudo apt-get install libssl-dev libdb-dev libdb++-dev libqrencode-dev qt4-qmake libqtgui4 libqt4-dev git
 	sudo apt-get install libminiupnpc-dev libminiupnpc8 libboost-all-dev
+	sudo apt-get install libwebkit-dev
 
 Downloading Source
 ------------------
