@@ -22,15 +22,20 @@ TECH Information
 
      Ticker: TECH           | PoW/PoS                 | Algorithm:X13      |        Nodes         |           Ports
     :----------------------:|:-----------------------:|:------------------:|:--------------------:|:---------------:
-     Genesis Block:         | 2014-06-24              | 11:02:45           |        54.69.85.176  |           57698
-     Max POW:               | 186,985 TECH            | -                  |        54.186.14.127 |           57697
-     Last PoW Block:        | 2014-06-28              | 01:59:48           |        54.68.85.238  |
-     PoS Starts on Block:   | 5,000                   | 4 Days             |                      |
-     First PoS Block:       | 2014-06-29              | 08:00:27           |                      |
-     PoS Annual Interest:   | 4%                      | -                  |                      |
-     PoS Minimum Stake Age: | 1 Hour                  | (12 Blocks)        |                      |
-     Total:                 | 300,000 TECH          | 12-13 years          |                      |
-
+     Genesis Block:         | 2014-06-24              | 11:02:45           |      173.69.134.166  |           57698
+     Max POW:               | 186,985 TECH            | -                  |      189.4.54.214    |           57697
+     Last PoW Block:        | 2014-06-28              | 01:59:48           |      50.197.11.193   |
+     PoS Starts on Block:   | 5,000                   | 4 Days             |      50.83.9.153     |
+     First PoS Block:       | 2014-06-29              | 08:00:27           |      75.130.163.51   |
+     PoS Annual Interest:   | 4%                      | -                  |      24.5.53.44      |
+     PoS Minimum Stake Age: | 1 Hour                  | (12 Blocks)        |      98.234.71.71    |
+     Total:                 | 300,000 TECH            | 12-13 years        |      137.135.61.17   |
+                            |                         |                    |      24.85.126.229   |
+                            |                         |                    |      86.135.31.30    |
+                            |                         |                    |      213.155.254.2   |
+                            |                         |                    |      65.48.233.96    |
+                            |                         |                    |      69.140.199.200  |
+                            |                         |                    |      72.51.88.81     |
 Timeline
 ====================
 
@@ -57,6 +62,7 @@ Timeline
     19 | Friday, November 21, 2014      | TECHCOIN Added to Casheer-App list
     20 | Wednesday, December 3th, 2014  | Stake2Win Session 3
     21 | Tuesday, December 16th, 2014   | Stake2Win Session 4
+    22 | Friday, January 2nd, 2015      | Delisted from Bittrex, as anticipated
     
 TECHCOIN News
 ====================
@@ -76,9 +82,9 @@ Forums
 ====================
 [![Visit our BitCoinTalk Forum](http://oi58.tinypic.com/29pswo0.jpg)](https://bitcointalk.org/index.php?topic=794069.0)[![Visit our Casheer Forum](http://oi60.tinypic.com/34rd1r8.jpg)](http://forum.casheer.net/viewtopic.php?f=15&t=263)[![Visit our CryptoCoinTalk Forum](http://oi61.tinypic.com/2i1cpaf.jpg)](https://cryptocointalk.com/forum/1743-techcoin-tech/)
 
-Exchanges
+Exchanges (BTC, LTC, DOGE)
 ====================
-[![Bittrex Exchange](http://oi58.tinypic.com/2dr9u6a.jpg)](https://bittrex.com/Market/Index?MarketName=BTC-TECH)[![Allcrypt Exchange](https://www.allcrypt.com/acsmallnotag.png)](https://www.allcrypt.com/market?id=1258)
+[![Allcrypt BTC](https://www.allcrypt.com/acsmallnotag.png)](https://www.allcrypt.com/market?id=1258)[![Allcrypt LTC](https://www.allcrypt.com/acsmallnotag.png)](https://www.allcrypt.com/market?id=1259)[![Allcrypt DOGE](https://www.allcrypt.com/acsmallnotag.png)](https://www.allcrypt.com/market?id=1260)
 
 Block Explorers
 ====================
