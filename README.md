@@ -1,20 +1,21 @@
-TECH COIN | Wallet Version 1.2.0.0
-====================
-![TECH Logo](http://tech-co.in/img/logo.png "TECH Logo")[![PoD](http://cryptoasian.com/wp-content/uploads/2014/10/ratingTECH2.jpg)](http://cryptoasian.com/tech-techcoin/)
+TECH COIN | Wallet Versions Online 1.1.0 | 1.1.4.1 |1.2.0.1
 
-New Dev Team / Community Members
+====================
+![TECH Logo](https://chainz.cryptoid.info/logo/tech.png "TECH Logo")
+[![PoD](http://cryptoasian.com/wp-content/uploads/2014/10/ratingTECH2.jpg)](http://cryptoasian.com/tech-techcoin/)
+
+Development of Community Members
 ====================
 
             Lead Coder      |  Sustainability Initiatives  | Community Manager       
     :----------------------:|:----------------------------:|:-----------------------:
-         "cecilbdemented"   |           "evtrmm"           |   "Testing Crypto"      
+         "cecilbdemented"   |        "To Be Filled"        |   "Testing Crypto"      
       Lead Coder ~ Wallet   | Incentives Program ~ Website |   Coder ~ Forums      
     ---------------------------------------------------------------------------------
-          "edn247" ~ Thanks for all your contributions for the TECH community        
+          "edn247" ~ Thanks for all your contributions for the TECH community
+          "evtrmm" ~ Thanks for all your contributions for the TECH community
     ---------------------------------------------------------------------------------
           Looking for help with development/community manager, PM with offers.  
-
-[![Throughput Graph](https://graphs.waffle.io/techcoincommunity/techcoin/throughput.svg)](https://waffle.io/techcoincommunity/techcoin/metrics)
 
 TECH Information
 ====================
@@ -22,20 +23,20 @@ TECH Information
 
      Ticker: TECH           | PoW/PoS                 | Algorithm:X13      |        Nodes         |           Ports
     :----------------------:|:-----------------------:|:------------------:|:--------------------:|:---------------:
-     Genesis Block:         | 2014-06-24              | 11:02:45           |      173.69.134.166  |           57698
-     Max POW:               | 186,985 TECH            | -                  |      189.4.54.214    |           57697
-     Last PoW Block:        | 2014-06-28              | 01:59:48           |      50.197.11.193   |
+     Genesis Block:         | 2014-06-24              | 11:02:45           |      186.206.54.60   |           57698
+     Max POW:               | 186,985 TECH            | -                  |      188.163.107.66  |           57697
+     Last PoW Block:        | 2014-06-28              | 01:59:48           |      24.85.114.101   |
      PoS Starts on Block:   | 5,000                   | 4 Days             |      50.83.9.153     |
-     First PoS Block:       | 2014-06-29              | 08:00:27           |      75.130.163.51   |
-     PoS Annual Interest:   | 4%                      | -                  |      24.5.53.44      |
-     PoS Minimum Stake Age: | 1 Hour                  | (12 Blocks)        |      98.234.71.71    |
-     Total:                 | 300,000 TECH            | 12-13 years        |      137.135.61.17   |
-                            |                         |                    |      24.85.126.229   |
-                            |                         |                    |      86.135.31.30    |
-                            |                         |                    |      213.155.254.2   |
-                            |                         |                    |      65.48.233.96    |
-                            |                         |                    |      69.140.199.200  |
-                            |                         |                    |      72.51.88.81     |
+     First PoS Block:       | 2014-06-29              | 08:00:27           |      213.155.254.2   |
+     PoS Annual Interest:   | 4%                      | -                  |      96.54.68.100    |
+     PoS Minimum Stake Age: | 1 Hour                  | (12 Blocks)        |      148.251.8.18    |
+     Total:                 | 300,000 TECH            | 12-13 years        |      162.220.166.125 |
+                            |                         |                    |      149.202.121.129 |
+                            |                         |                    |                      | 2a01:4f8:201:6211::2101
+                            |                         |                    |                      |
+                            |                         |                    |                      |
+                            |                         |                    |                      |
+                            |                         |                    |                      |
 Timeline
 ====================
 
@@ -63,28 +64,20 @@ Timeline
     20 | Wednesday, December 3th, 2014  | Stake2Win Session 3
     21 | Tuesday, December 16th, 2014   | Stake2Win Session 4
     22 | Friday, January 2nd, 2015      | Delisted from Bittrex, as anticipated
-    
-TECHCOIN News
-====================
-[![Altcoin Today](http://www.altcointoday.com/wp-content/uploads/2014/06/altcointoday_banner3.png)](http://www.altcointoday.com/techcoin-stake-to-win-2/)
-
-Development Channels
-====================
-[![Slack](http://oi61.tinypic.com/15f5fh5.jpg)](https://techcoincommunity.slack.com/messages/tech-community-chat/)[![Trello](http://oi62.tinypic.com/dno7km.jpg)](https://trello.com/b/LjkIMAuz/tech-roadmap)[![CoinGecko](https://www.coingecko.com/assets/coingecko-logo-7aac30c256cc4cbe84af232d6bcb315d.png)](https://www.coingecko.com/en/coins/techcoin)
+    19 | Tuesday, May 17, 2016          | YoBit.Net added TechCoin to Trade, Play Dice & Donate
+    20 | Thursday, June 16, 2016        | Facebook.com update to @TechC01n
 
 Social Links
 ====================
-[![Slack channel](https://slack.global.ssl.fastly.net/21506/img/icons/ios-32.png)](https://techcoincommunity.slack.com/messages/tech-community-chat/)[![Visit our Twitter page](http://oi58.tinypic.com/14jat53.jpg)](https://twitter.com/TechcoinGroup)[![Visit our Facebook page](http://oi60.tinypic.com/4re3ki.jpg)](https://www.facebook.com/pages/TechCoin/738472479557133)[![Visit our Reddit page](http://oi58.tinypic.com/30uftyr.jpg)](http://www.reddit.com/r/techcoin/)[![Visit our IRC channel](http://oi59.tinypic.com/nbx9j9.jpg)](https://kiwiirc.com/client/chat.freenode.net:+6697|?#techcoin)
-
-[![Visit our Tumblr page](http://oi57.tinypic.com/15x09vr.jpg)](http://tech-coin.tumblr.com/)[![Visit our Pinterest page](http://oi57.tinypic.com/281fu2o.jpg)](http://www.pinterest.com/TestingCrypto/tech-coin-community-pin-it/)[![Visit our Google+ page](http://oi57.tinypic.com/sw60p2.jpg)](https://plus.google.com/u/0/b/103613383977545779663/103613383977545779663/about)[![Visit our Youtube page](http://oi62.tinypic.com/20uvn0n.jpg)](https://www.youtube.com/channel/UCaOXeFpu-0IWjb8btwZtfBw)
+[![Visit our Twitter page](http://oi58.tinypic.com/14jat53.jpg)](https://twitter.com/TechcoinGroup)[![Visit our Facebook page](http://oi60.tinypic.com/4re3ki.jpg)](https://www.facebook.com/TechC01n/)[![Visit our Reddit page](http://oi58.tinypic.com/30uftyr.jpg)](http://www.reddit.com/r/techcoin/)
 
 Forums
 ====================
-[![Visit our BitCoinTalk Forum](http://oi58.tinypic.com/29pswo0.jpg)](https://bitcointalk.org/index.php?topic=794069.0)[![Visit our Casheer Forum](http://oi60.tinypic.com/34rd1r8.jpg)](http://forum.casheer.net/viewtopic.php?f=15&t=263)[![Visit our CryptoCoinTalk Forum](http://oi61.tinypic.com/2i1cpaf.jpg)](https://cryptocointalk.com/forum/1743-techcoin-tech/)
+[![Visit our BitCoinTalk Forum](http://oi58.tinypic.com/29pswo0.jpg)](https://bitcointalk.org/index.php?topic=794069.0)
 
 Exchanges (BTC, LTC, DOGE)
 ====================
-[![Allcrypt BTC](https://www.allcrypt.com/acsmallnotag.png)](https://www.allcrypt.com/market?id=1258)[![Allcrypt LTC](https://www.allcrypt.com/acsmallnotag.png)](https://www.allcrypt.com/market?id=1259)[![Allcrypt DOGE](https://www.allcrypt.com/acsmallnotag.png)](https://www.allcrypt.com/market?id=1260)
+[![YoBit.Net](https://yobit.net/images/logo.png)](https://yobit.net/en/trade/TECH/BTC)
 
 Block Explorers
 ====================
