@@ -91,8 +91,8 @@
         <cursorShape>IBeamCursor</cursorShape>
        </property>
        <property name="text">
-        <string>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2014 The TechCoin developers
+        <string>Copyright © 2009-2014 The Bitcoin Developers
+Copyright © 2014-2016 The TechCoin Community of Developers
 </string>
        </property>
        <property name="textInteractionFlags">
