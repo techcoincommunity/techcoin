@@ -2,7 +2,7 @@
 #define QTIPCSERVER_H
 
 // Define TechCoin-Qt message queue name
-#define BITCOINURI_QUEUE_NAME "newxuroURI"
+#define BITCOINURI_QUEUE_NAME "Techcoin"
 
 void ipcScanRelay(int argc, char *argv[]);
 void ipcInit(int argc, char *argv[]);
