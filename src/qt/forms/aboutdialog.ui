@@ -92,7 +92,7 @@
        </property>
        <property name="text">
         <string>Copyright © 2009-2014 The Bitcoin Developers
-Copyright © 2014-2016 The TechCoin Community of Developers
+Copyright © 2014-2017 The TechCoin Community of Developers
 </string>
        </property>
        <property name="textInteractionFlags">
